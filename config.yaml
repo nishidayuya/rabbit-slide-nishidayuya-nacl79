@@ -11,7 +11,7 @@ ustream_id:
 vimeo_id: 
 youtube_id: 
 author:
-  markup_language: :markdown
+  markup_language: :rd
   name: Yuya.Nishida.
   email: yuyaAT@ATj96DOT.DOTorg
   rubygems_user: nishidayuya
